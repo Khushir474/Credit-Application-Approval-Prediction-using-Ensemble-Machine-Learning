@@ -1,5 +1,6 @@
 # Credit-Application-Approval-Prediction-using-Ensemble-Machine-Learning
-Overview: Forecasting credit approvals and predicting customer's credit scores  
+## Overview: 
+Forecasting credit approvals and predicting customer's credit scores  
 
 ## Case Description:
 
